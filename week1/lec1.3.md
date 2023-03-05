@@ -1,8 +1,16 @@
 - types of dataset
     - structured
-        - we know the schema
+        - we know the schema, what kind of info we are gonna get
         - eg. db table
         - shapefile.shp with associated file(tabular)
+        - eg 
+            - databases
+            - spreadsheets
+                - a spread sheet can also have both structured and unstructured data
+            - shapefiles
+                - contains structured data on geographic locations (both spacial and tabular info)
+                - .shp file 
+                - .dbf file more like an excel file
     - unstructured
         - audio,text,etc...
         - pdf
@@ -11,6 +19,6 @@
         
     - semi-structured
         - json
-        - pdf,html,email,sms
-        - zip,docx
-    - 
+        - Documents like pdf,html,email,sms (can have tabular, some data structured and some semi structured)
+        - containers(zip,docx,pptx,xlsx)
+

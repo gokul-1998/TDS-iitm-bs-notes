@@ -1,0 +1,23 @@
+- Get the data (3 ways)
+    - download data from public
+    - query from somewhere (DB,api,library)
+    - scrap data(webpage, pdf,doc,etc..)not directly available
+- Search `movie data download` google
+- IMDb -> internet movie Database
+- this data can be downloaded from 
+    - https://datasets.imdbws.com/
+- https://gramener.com/imdb/
+- What is most of india curious about?
+- What is most popular in a region?
+    - google does it
+    - this is undocumented api
+    -NOTE : make sure to do this in an incognito, as the google will do cache and you wont be able to see the request for the second time you do it.
+    - `https://www.google.com/complete/search?q=how%20to&cp=6&client=gws-wiz&xssi=t&hl=en-IN&authuser=0&psi=FFjaY_LjC7GTseMP8qK4sAU.1675253857624&dpr=1.25`
+    - The modified search query to search where is
+        - `https://www.google.com/complete/search?q=where&cp=6&client=gws-wiz&xssi=t&hl=en-IN&authuser=0&psi=FFjaY_LjC7GTseMP8qK4sAU.1675253857624&dpr=1.25`
+        - Note this will return .txt file with json data.
+        - if you can save it as a json file and format the document, then you can have it human readable
+    -  `https://gramener.com/search/#Questions/how-to-`
+    - `http://howstat.com/cricket/home.asp` - to find out the fastest odi cricketer in terms of Strikerate
+    - for campbell `http://howstat.com/cricket/Statistics/Players/PlayerOverviewSummary.asp?PlayerID=0289`
+    

@@ -14,3 +14,7 @@ types of values
         - spatial(lat/long,shapes)
         - structured json,xml
         - specialized(ip,currency)
+
+structured: 
+    - easier to work with
+    - more result in less time

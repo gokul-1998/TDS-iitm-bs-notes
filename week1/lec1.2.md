@@ -13,8 +13,29 @@
         - https://gadm.org/ 
             - map data
     - google datasetsearch
+        - search engine for dataset
+        - https://datasetsearch.research.google.com/
     - kaggle datasets
         - harry potter
-    - data.gov
-    - datameet.org
-- 
+    - https://data.gov.in/
+    - https://datameet.org/
+        - indian community to help for dataset 
+        - mailing list - google group
+    
+- Private data
+    - corporate
+        - employees, prod specs, logs etc...
+    - paid
+        - paid  dataset (google search)
+        - buy  dataset (google search)
+    
+- Personal data
+    - mobile app datasets
+    - junk messages
+    - export data from messages or whatsapp
+    - health app
+        - steps count,weight tracking
+    - email
+        - useful/non useful
+    - music apps
+    - personal loggings - diary
