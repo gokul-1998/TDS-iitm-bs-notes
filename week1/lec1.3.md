@@ -1,0 +1,16 @@
+- types of dataset
+    - structured
+        - we know the schema
+        - eg. db table
+        - shapefile.shp with associated file(tabular)
+    - unstructured
+        - audio,text,etc...
+        - pdf
+        - little or no idea
+        - text,images,audio,video
+        
+    - semi-structured
+        - json
+        - pdf,html,email,sms
+        - zip,docx
+    - 
